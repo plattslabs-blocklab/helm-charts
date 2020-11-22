@@ -1,2 +1,5 @@
 charts/*/charts
 helm-docs
+
+# Vim swap files
+*.swp
